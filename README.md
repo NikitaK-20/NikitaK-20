@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Nikita! <br/><a href="https://github.com/NikitaK-20"></a> <a href="https://www.linkedin.com/in/nikita-k-663293120/"></a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Python](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>📺 Certifications</h2>
+
+- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NikitaK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nikita-k-663293120/
 
 <!--
 **NikitaK-20/NikitaK-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
