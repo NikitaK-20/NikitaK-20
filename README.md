@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional](https://coursera.org/verify/33VKHP64ADBD)
 
 
 <h2> 🤳 Connect with me:</h2>
