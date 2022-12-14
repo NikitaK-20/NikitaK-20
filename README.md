@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Encryption/Decryption Python Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - [Python](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Certifications</h2>
