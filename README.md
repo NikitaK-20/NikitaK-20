@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Encryption/Decryption Python Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Encryption/Decryption Python Program](https://github.com/NikitaK-20/Encryption-Decryption-Program.git)
 - [Python](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Certifications</h2>
